@@ -42,11 +42,11 @@ Challenge for those more comfortable: If you’re feeling more comfortable, try 
 ‎ 
 ‎ 
 
-‎ 
-‎ 
-‎ 
+https://github.com/JorgeCordova9/Wiki_Project/assets/124526047/0fe389d1-2336-46b9-ab9b-24eade9fdee1
 
 
-https://github.com/JorgeCordova9/Wiki_Project/assets/124526047/75c3101c-2954-406c-a23c-f4dd588911e0
+
+‎ 
+‎ 
 
 
