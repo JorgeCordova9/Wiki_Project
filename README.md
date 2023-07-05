@@ -36,9 +36,7 @@ Challenge for those more comfortable: If you’re feeling more comfortable, try 
 
 ‎ ‎ 
 ‎ 
-
-
-![Django-Logo-1](https://github.com/JorgeCordova9/Wiki_Project/assets/124526047/52386414-7946-4adb-b724-7b02508bc413)
+![Alt text](Django-Logo-1.png)
 
 - This project was made with Django framework. That is a high-level Python web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source.
 ‎ 
